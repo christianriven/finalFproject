@@ -31,8 +31,8 @@ namespace CAtravels
                 Eempresa = TxtEempresa.Text;
 
 
-                if (conexiónE.AgregarUsuarioesp(Ename, Uempresa, Dempresa, Moneda, Pempresa, Tempresa, Eempresa) == 0)
-                {
+                conexiónE.AgregarUsuarioesp(Ename, Uempresa, Dempresa, Moneda, Pempresa, Tempresa, Eempresa);
+                
                     alerta.Text = "<script>Swal.fire('Registro Realizado', 'Bienvenido', 'success'); </script>";
                     TxtEname.Text = "";
                     TxtUempresa.Text = "";
@@ -42,14 +42,15 @@ namespace CAtravels
                     TxtTempresa.Text = "";
                     TxtEempresa.Text = "";
 
-                }
-                else
-                {
-                    alerta.Text = "<script>Swal.fire('Registro de compañia', 'El nombre de la compañia ya fue utilizado', 'error'); </script>";
-                }
-
+                
+                
 
             }
+            else
+            {
+                alerta.Text = "<script>Swal.fire('Registro de compañia', 'El nombre de la compañia ya fue utilizado', 'error'); </script>";
+            }
+
         }
 
         protected void LBturismo_Click(object sender, EventArgs e)

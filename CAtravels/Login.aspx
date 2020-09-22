@@ -68,7 +68,7 @@
           <nav class="nav-main">
 				<ul class="nav-menu">
                     <li>
-                        <asp:LinkButton ID="LBvuelos" runat="server" OnClick="LBvuelos_Click" CssClass="white-text" >ESP</asp:LinkButton>
+                        <asp:LinkButton ID="LBvuelos" runat="server" OnClick="LBvuelos_Click" CssClass="white-text" >ESPAÑOL</asp:LinkButton>
                     </li>
           </ul>
 	</nav>

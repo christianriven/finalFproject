@@ -28,7 +28,7 @@
 	               <nav class="nav-main"id="color-barra">
 				<ul class="nav-menu" >
 				    <li>
-                        <asp:LinkButton ID="LBvuelos" runat="server" OnClick="LBvuelos_Click" CssClass="white-text"  >ENG</asp:LinkButton>
+                        <asp:LinkButton ID="LBvuelos" runat="server" OnClick="LBvuelos_Click" CssClass="white-text"  >ENGLISH</asp:LinkButton>
                     </li>
 				</ul>
 	</nav>

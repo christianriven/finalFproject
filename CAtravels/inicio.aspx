@@ -80,13 +80,13 @@
 	<br>
 	<br>
 	<br>
-	<div class="col-16">
+	<div class="col-10">
 	<br>
 <h1 align="center" id="vuelos">Flights with Discount</h1>
 		
 	</div>
 	
-	<div class="col-16">
+	<div class="col-10">
 	<h1 align="center" id="pregunta">Are you searching for cheap flights from El Salvador or promotions for your vacations?</h1>	
 	</div>
 	

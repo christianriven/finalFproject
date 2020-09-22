@@ -57,7 +57,7 @@
                 Guatemala</h2>
             <p style="font-size: 180%" align="center"> 
                 &nbsp;</p>
-			&nbsp;<asp:ImageButton ID="ImageButton5" runat="server" Height="62%" ImageUrl="~/imagenes/1.png" Width="89%" OnClick="ImageButton5_Click1" />
+			&nbsp;<asp:ImageButton ID="ImageButton5" runat="server" Height="60%" ImageUrl="~/imagenes/1.png" Width="90%" OnClick="ImageButton5_Click1" />
 			<br>
 			<a href="">
 				&nbsp;</a></div>
@@ -65,7 +65,7 @@
 			<h2 style="font-size: 180%" align="center" id="titulos"> Honduras </h2>
 			<br>
 			    <a href="">
-				&nbsp;&nbsp;<asp:ImageButton ID="ImageButton1" runat="server" Height="62%" ImageUrl="~/imagenes/L_5c1a36f633303_Honduras-turismo.jpg" Width="89%" OnClick="ImageButton1_Click1" />
+				&nbsp;&nbsp;<asp:ImageButton ID="ImageButton1" runat="server" Height="60%" ImageUrl="~/imagenes/L_5c1a36f633303_Honduras-turismo.jpg" Width="90%" OnClick="ImageButton1_Click1" />
                 </a>
 		</div>
 			
@@ -73,7 +73,7 @@
 			<h2 style="font-size: 180%" align="center" id="titulos"> El Salvador </h2>
 			<br>
 			    <a href="">
-				&nbsp;<asp:ImageButton ID="ImageButton2" runat="server" Height="62%" ImageUrl="~/imagenes/7-rotado.jpg" Width="89%" OnClick="ImageButton2_Click1" />
+				&nbsp;<asp:ImageButton ID="ImageButton2" runat="server" Height="60%" ImageUrl="~/imagenes/7-rotado.jpg" Width="90%" OnClick="ImageButton2_Click1" />
                 </a>
 		</div>
 		
@@ -87,7 +87,7 @@
 			<h2 style="font-size: 180%" align="center" id="titulos"> Costa Rica </h2>
 			<br>
 			<a href="">
-				&nbsp;<asp:ImageButton ID="ImageButton3" runat="server" Height="62%" ImageUrl="~/imagenes/Costa-Rica.jpg" Width="89%" OnClick="ImageButton3_Click1" />
+				&nbsp;<asp:ImageButton ID="ImageButton3" runat="server" Height="60%" ImageUrl="~/imagenes/Costa-Rica.jpg" Width="90%" OnClick="ImageButton3_Click1" />
             </a>
 		</div>
 		<div class="col-6">
@@ -95,16 +95,13 @@
 			<h2 style="font-size: 180%" align="center" id="titulos">Panamá</h2>
 			<br>
 			<a href="#">
-				&nbsp;<asp:ImageButton ID="ImageButton4" runat="server" Height="62%" ImageUrl="~/imagenes/Que-hacer-en-Ciudad-de-Panamá-Conocer-lugares-y-destinos-turísticos-1-1.png" Width="89%" OnClick="ImageButton4_Click1" /></a>
+				&nbsp;<asp:ImageButton ID="ImageButton4" runat="server" Height="60%" ImageUrl="~/imagenes/Que-hacer-en-Ciudad-de-Panamá-Conocer-lugares-y-destinos-turísticos-1-1.png" Width="90%" OnClick="ImageButton4_Click1" /></a>
 		</div>
 		
 	
 		</div>
 		  
-		<div class="col-16">
-		<h1 style="font-size: 180%" align="center" id="titulos"> Turismo en Centro America</h1>
-		<iframe id="video1" width="450" height="300" src="https://www.youtube.com/embed/kiUrluu6fZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</div>  
+		
 	
 	<script src="js/jquery.min.js"></script>	
     <script src="js/bootstrap.min.js"></script>

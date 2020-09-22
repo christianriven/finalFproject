@@ -91,13 +91,13 @@
 	<br>
 	<br>
 	<br>
-	<div class="col-16">
+	<div class="col-9">
 	<br>
-	<h1 align="center id="vuelos"> Vuelos en Oferta</h1>
+	<h1 align="center" id="vuelos"> Vuelos en Oferta</h1>
 		
 	</div>
 	
-	<div class="col-16">
+	<div class="col-10">
 	<h1 align="center" id="pregunta">¿Está buscando vuelos baratos desde El Salvador o promociones aéreas para tus vacaciones? </h1>
 		
 	</div>

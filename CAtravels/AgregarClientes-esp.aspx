@@ -80,7 +80,6 @@
             Correo de Representante:<br />
             <br />
             <asp:TextBox ID="txtEmailRepresentante" runat="server" cssClass="input" Width="433px" TextMode="Email"  ></asp:TextBox>
-
             <br />
 
             <br />

@@ -91,7 +91,7 @@
 	</div>
 	
 	<div class="col-16">
-	<h4   align="center" id="encuentra">Find a wide number of flight ticket offers for your favorite destiny. CATravels offer to you packages that includes transports, and recreation to reduce the total cost. Flights to Costa Rica, Honduras, Panama, El Salvador and Guatemala, here you can find Airline Promotions to these destinies.</h4>
+	<h4   align="center" id="encuentra">Find a wide number of flight ticket offers for your favorite destination. CATravels offer to you packages that includes transports, and recreation to reduce the total cost. Flights to Costa Rica, Honduras, Panama, El Salvador and Guatemala, here you can find Airline Promotions to these destinies.</h4>
 		
 	</div>
 	
